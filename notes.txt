@@ -1,0 +1,8 @@
+<div class="post">
+    <div class="kart-icerik">
+        <h2 class="baslik">Başlık Buraya</h2>
+        <p class="onizleme">İçerik ön izlemesi burada olacak. İçerik ön izlemesi burada olacak. İçerik ön izlemesi burada olacak.</p>
+        <p class="tarih">Tarih: <span class="date">08 Ekim 2023</span></p>
+    </div>
+    <a href="#" class="devamini-gor">Devamını Gör</a>
+</div>   
