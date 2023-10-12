@@ -6,3 +6,10 @@
     </div>
     <a href="#" class="devamini-gor">Devamını Gör</a>
 </div>   
+
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
